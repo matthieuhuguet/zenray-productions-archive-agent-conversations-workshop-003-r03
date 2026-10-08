@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e7e14-70d0-7fd0-9d95-a17394e78f4b",
+  "sessionId": "019e7e14-70d0-7fd0-9d95-a17394e78f4b",
+  "provider": "codex",
+  "title": "Audit en lecture seule dans /Users/zenray/Create/Build/Productions/GithubProductions/ZenRayProgress. Objectif: comprendre l'existant côté Cr",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-48-49-019e7e14-70d0-7fd0-9d95-a17394e78f4b.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-48-49-019e7e14-70d0-7fd0-9d95-a17394e78f4b.jsonl",
+      "relativePath": "conversations/codex/cab65c670360205e/d3c2ff7076b83a84.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-31T12:51:29.214Z",
+  "stagedAt": "2026-10-04T09:23:56.025Z"
+}

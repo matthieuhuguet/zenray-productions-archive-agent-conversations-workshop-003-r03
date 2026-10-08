@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e4f34-9722-7f73-9c00-0f4623f563ea",
+  "sessionId": "019e4f34-9722-7f73-9c00-0f4623f563ea",
+  "provider": "codex",
+  "title": "Refactorise cette méthode pour faire ça mais d'une manière bien plus efficace pour trouver en parallèle et en progres restaurer mes fichiers",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/22/rollout-2026-05-22T12-21-47-019e4f34-9722-7f73-9c00-0f4623f563ea.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/22/rollout-2026-05-22T12-21-47-019e4f34-9722-7f73-9c00-0f4623f563ea.jsonl",
+      "relativePath": "conversations/codex/cb89436ab41b9788/987598308b49dd5a.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-22T10:49:53.469Z",
+  "stagedAt": "2026-10-04T09:36:06.361Z"
+}
