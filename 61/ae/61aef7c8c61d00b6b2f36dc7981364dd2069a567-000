@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019f52de-5144-7313-8462-25e1bb800c14",
+  "sessionId": "019f52de-5144-7313-8462-25e1bb800c14",
+  "provider": "codex",
+  "title": "<recommended_plugins> Here is a list of plugins that are available but not installed. If the user's query would benefit from one of these pl",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/07/12/rollout-2026-07-12T05-28-49-019f52de-5144-7313-8462-25e1bb800c14.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/07/12/rollout-2026-07-12T05-28-49-019f52de-5144-7313-8462-25e1bb800c14.jsonl",
+      "relativePath": "conversations/codex/d9d00e35f696056e/5c66e813646d8ce0.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-07-11T20:30:21.602Z",
+  "stagedAt": "2026-10-04T09:12:35.852Z"
+}
