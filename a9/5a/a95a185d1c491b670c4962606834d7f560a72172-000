@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
+  "sessionId": "01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
+  "provider": "codex",
+  "title": "Conversation codex 01a11aa4",
+  "projectId": "louisiana-bayou",
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/10/08/rollout-2026-10-08T10-32-24-01a11aa4-67bb-7ae1-b1d8-99af0c3495c3.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/10/08/rollout-2026-10-08T10-32-24-01a11aa4-67bb-7ae1-b1d8-99af0c3495c3.jsonl",
+      "relativePath": "conversations/codex/dd4ee76b1a48f1c3/7153f7b67f51584c.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-08T12:04:35.231Z",
+  "stagedAt": "2026-10-08T12:05:29.817Z"
+}

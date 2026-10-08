@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019eb17f-d0e4-76d0-9de9-1acb807fe2e6",
+  "sessionId": "019eb17f-d0e4-76d0-9de9-1acb807fe2e6",
+  "provider": "codex",
+  "title": "j'ai déjà un script qui bloque ici japon et silicon carne ajoute les chaines suivante : oussama ammar yomi denzel et antoine blanco",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/06/10/rollout-2026-06-10T14-26-44-019eb17f-d0e4-76d0-9de9-1acb807fe2e6.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/06/10/rollout-2026-06-10T14-26-44-019eb17f-d0e4-76d0-9de9-1acb807fe2e6.jsonl",
+      "relativePath": "conversations/codex/e5f3cbe5ba2917c2/db50725246d19372.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-06-10T12:27:23.064Z",
+  "stagedAt": "2026-10-04T09:20:15.996Z"
+}

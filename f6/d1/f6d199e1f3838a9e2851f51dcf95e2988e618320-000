@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e6b28-9f89-7f11-9643-83496ad441c8",
+  "sessionId": "019e6b28-9f89-7f11-9643-83496ad441c8",
+  "provider": "codex",
+  "title": "question claude uniquement : /Users/zenray/.claude/plans /Users/zenray/.claude/backups /Users/zenray/.claude/CLAUDE.md /Users/zenray/.claude",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/27/rollout-2026-05-27T22-38-04-019e6b28-9f89-7f11-9643-83496ad441c8.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/27/rollout-2026-05-27T22-38-04-019e6b28-9f89-7f11-9643-83496ad441c8.jsonl",
+      "relativePath": "conversations/codex/ebf85e8d20358f0c/51ba3bd3fc67c65d.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-27T21:41:38.708Z",
+  "stagedAt": "2026-10-04T09:28:16.130Z"
+}
