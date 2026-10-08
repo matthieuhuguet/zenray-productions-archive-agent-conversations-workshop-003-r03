@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:01a10095-4b7f-7502-bd33-d3cfc21acd20",
+  "sessionId": "01a10095-4b7f-7502-bd33-d3cfc21acd20",
+  "provider": "codex",
+  "title": "Conversation codex 01a10095",
+  "projectId": "control-resonant-crossover",
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/10/03/rollout-2026-10-03T09-05-46-01a10095-4b7f-7502-bd33-d3cfc21acd20.jsonl",
+    "/Users/zenray/.codex/sessions/2026/10/04/rollout-2026-10-04T10-09-54-01a10095-4b7f-7502-bd33-d3cfc21acd20_01a105f6-5f44-7b93-b84c-fd357d9423d5.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/10/03/rollout-2026-10-03T09-05-46-01a10095-4b7f-7502-bd33-d3cfc21acd20.jsonl",
+      "relativePath": "conversations/codex/af8ebf1a9efb85b1/d148bd6dcf5f2e79.jsonl"
+    },
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/10/04/rollout-2026-10-04T10-09-54-01a10095-4b7f-7502-bd33-d3cfc21acd20_01a105f6-5f44-7b93-b84c-fd357d9423d5.jsonl",
+      "relativePath": "conversations/codex/af8ebf1a9efb85b1/1154b4e52b5be919.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-04T11:59:50.353Z",
+  "stagedAt": "2026-10-08T15:28:26.003Z"
+}
