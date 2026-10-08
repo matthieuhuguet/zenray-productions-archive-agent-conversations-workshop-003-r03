@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "claude:24532427-0b45-4cae-8118-8816b561bfea",
+  "sessionId": "24532427-0b45-4cae-8118-8816b561bfea",
+  "provider": "claude",
+  "title": "Dans ZenRay /zenrayprogress-context commencer à construire le plan pour pas encore le code concevoir la documentation de ce produit on comme",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/24532427-0b45-4cae-8118-8816b561bfea.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.claude/projects/-Users-zenray-Create-Build-Memory/24532427-0b45-4cae-8118-8816b561bfea.jsonl",
+      "relativePath": "conversations/claude/cdfad97c45a49e0c/164edd9a75856f57.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-08-05T09:02:05.518Z",
+  "stagedAt": "2026-10-07T08:30:02.415Z"
+}
